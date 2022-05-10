@@ -1,0 +1,12 @@
+.landing-page
+{
+  background: url("https://cdn.pixabay.com/photo/2020/07/24/09/49/books-5433432_1280.jpg") scroll center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.wrapper
+{
+  background-color: rgba(0,0,0,0.2);
+  height: 100%;
+}
